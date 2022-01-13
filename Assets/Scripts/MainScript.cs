@@ -1,3 +1,6 @@
+// Pour modifier les paramètres, modifier les valeurs du GameObject "Center"
+// Tout est centré par rapport à Center, le rayon et le nombre de points sont sérialisés
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
